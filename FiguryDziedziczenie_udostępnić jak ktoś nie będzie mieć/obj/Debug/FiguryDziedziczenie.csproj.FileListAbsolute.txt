@@ -1,0 +1,6 @@
+C:\Users\Adam\Downloads\FiguryDziedziczenie_udostępnić jak ktoś nie będzie mieć-20211012T141017Z-001\FiguryDziedziczenie_udostępnić jak ktoś nie będzie mieć\bin\Debug\FiguryDziedziczenie.exe
+C:\Users\Adam\Downloads\FiguryDziedziczenie_udostępnić jak ktoś nie będzie mieć-20211012T141017Z-001\FiguryDziedziczenie_udostępnić jak ktoś nie będzie mieć\bin\Debug\FiguryDziedziczenie.pdb
+C:\Users\Adam\Downloads\FiguryDziedziczenie_udostępnić jak ktoś nie będzie mieć-20211012T141017Z-001\FiguryDziedziczenie_udostępnić jak ktoś nie będzie mieć\obj\Debug\FiguryDziedziczenie.csprojAssemblyReference.cache
+C:\Users\Adam\Downloads\FiguryDziedziczenie_udostępnić jak ktoś nie będzie mieć-20211012T141017Z-001\FiguryDziedziczenie_udostępnić jak ktoś nie będzie mieć\obj\Debug\FiguryDziedziczenie.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Downloads\FiguryDziedziczenie_udostępnić jak ktoś nie będzie mieć-20211012T141017Z-001\FiguryDziedziczenie_udostępnić jak ktoś nie będzie mieć\obj\Debug\FiguryDziedziczenie.exe
+C:\Users\Adam\Downloads\FiguryDziedziczenie_udostępnić jak ktoś nie będzie mieć-20211012T141017Z-001\FiguryDziedziczenie_udostępnić jak ktoś nie będzie mieć\obj\Debug\FiguryDziedziczenie.pdb
